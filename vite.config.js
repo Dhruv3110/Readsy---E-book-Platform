@@ -8,7 +8,4 @@ export default defineConfig({
     port: 3000,
     open: true
   },
-  //   optimizeDeps: {
-  //   include: ['pdfjs-dist/build/pdf.worker.entry'],
-  // },
 })
